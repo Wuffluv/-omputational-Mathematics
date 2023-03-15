@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Treenode.cpp">
+    <ClCompile Include="Нелинейное уравнение.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
